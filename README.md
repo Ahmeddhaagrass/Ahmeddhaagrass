@@ -71,6 +71,12 @@ I am a **Software Engineering graduate** from **Nottingham Trent University (2:1
 
 ---
 
+## Pinned Projects Preview
+
+> Project screenshots coming soon — add images to each repository under `docs/screenshots/`.
+
+---
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmeddhaagrass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
