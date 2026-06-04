@@ -47,11 +47,14 @@ I am a **Software Engineering graduate** from **Nottingham Trent University (2:1
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**OpsDesk — IT Helpdesk Platform**](https://github.com/Ahmeddhaagrass/opsdesk) | Role-based ticket system with JWT auth, agent assignment, and admin dashboards | React, Node.js, PostgreSQL, Prisma |
+| [**Deep Hardware Integrity Analyzer**](https://github.com/Ahmeddhaagrass/deep-hardware-integrity-analyzer) | Windows desktop diagnostics for GPU, BIOS, drivers, kernel logs, Secure Boot/TPM | Electron, TypeScript, PowerShell |
 | [**FeedWise — AI Aquaculture System**](https://github.com/Ahmeddhaagrass/FeedWise-Fish-Feeding-Efficiency-Waste-Reduction) | Feeding management & waste reduction for sustainable fish farming using computer vision | Python, YOLO, EfficientNet, ResNet |
 | [**GPS Project Management Platform**](https://github.com/Ahmeddhaagrass/portfolio) | Full-stack platform supporting **40+ active projects** with RBAC, JWT auth, and automated quotations | React.js, Node.js, PostgreSQL |
 | [**Developer Salary Prediction**](https://github.com/Ahmeddhaagrass/AI-CRSWRK) | ML solution using Stack Overflow Developer Survey data for salary band prediction | Python, Scikit-learn, Pandas |
 | [**Event Booking System**](https://github.com/Ahmeddhaagrass/meal_to_meal) | Full-stack event booking app with authentication and database integration | React.js, Node.js, SQL |
 | [**Future Fridges Mobile App**](https://github.com/Ahmeddhaagrass/-ffsmart-fridge-app) | Smart food inventory app for tracking and expiry management | Mobile, Agile, Figma |
+| [**Kataticket Coursework**](https://github.com/Ahmeddhaagrass/soft20181-kataticket-coursework) | NTU event ticketing website (SOFT20181) | HTML, CSS, JavaScript |
 | [**Personal Portfolio**](https://github.com/Ahmeddhaagrass/portfolio) | Professional portfolio showcasing projects, skills, and experience | React, TypeScript, Tailwind |
 
 ---
