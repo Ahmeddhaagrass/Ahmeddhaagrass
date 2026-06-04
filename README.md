@@ -55,6 +55,7 @@ I am a **Software Engineering graduate** from **Nottingham Trent University (2:1
 | [**Event Booking System**](https://github.com/Ahmeddhaagrass/meal_to_meal) | Full-stack event booking app with authentication and database integration | React.js, Node.js, SQL |
 | [**Future Fridges Mobile App**](https://github.com/Ahmeddhaagrass/-ffsmart-fridge-app) | Smart food inventory app for tracking and expiry management | Mobile, Agile, Figma |
 | [**Kataticket Coursework**](https://github.com/Ahmeddhaagrass/soft20181-kataticket-coursework) | NTU event ticketing website (SOFT20181) | HTML, CSS, JavaScript |
+| [**Domino Line Builder (C++)**](https://github.com/Ahmeddhaagrass/cpp-dominoes-coursework) | C++ coursework — domino chain algorithm with chrono performance benchmarks | C++14, CMake, std::map |
 | [**Personal Portfolio**](https://github.com/Ahmeddhaagrass/portfolio) | Professional portfolio showcasing projects, skills, and experience | React, TypeScript, Tailwind |
 
 ---
