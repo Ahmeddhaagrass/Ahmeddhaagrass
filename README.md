@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ahmed Hagras 👋
+# Hi, I'm Ahmed Hagras 
 
 **Software Engineering Graduate | Full-Stack Developer | AI & Machine Learning Enthusiast**
 
@@ -14,7 +14,7 @@
 
 I am a **Software Engineering graduate** from **Nottingham Trent University (2:1)** with experience building full-stack applications, AI-powered solutions, workflow automation systems, and machine learning models. I am interested in **software engineering**, **artificial intelligence**, **cloud technologies**, and building products that create measurable business impact.
 
-> 🎯 **Currently seeking:** Software Engineering, AI Engineering, Cloud Computing, and Technology Consulting graduate roles — including **IBM**.
+> 🎯 **Currently seeking:** Software Engineering, AI Engineering, Cloud Computing, and Technology Consulting graduate roles .
 
 ---
 
