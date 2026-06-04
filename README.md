@@ -1,32 +1,35 @@
 <div align="center">
 
-# Hi, I'm Ahmed Hagras 
+# Hi, I'm Ahmed Hagras 👋
 
 **Software Engineering Graduate | Full-Stack Developer | AI & Machine Learning Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Hagras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedhagraas)
 [![Email](https://img.shields.io/badge/Email-hagrasahmed123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hagrasahmed123@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-01016429658-25D366?style=for-the-badge)](tel:+201016429658)
 [![Location](https://img.shields.io/badge/Location-Cairo,_Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-I am a **Software Engineering graduate** from **Nottingham Trent University (2:1)** with experience building full-stack applications, AI-powered solutions, workflow automation systems, and machine learning models. I am interested in **software engineering**, **artificial intelligence**, **cloud technologies**, and building products that create measurable business impact.
+Software Engineer with hands-on experience in **full-stack development** and **AI-enabled systems**, combining strong software engineering fundamentals with practical delivery in business and research environments. Experienced in building web platforms, backend APIs, workflow automation tools, and machine learning solutions across project operations, smart applications, and aquaculture.
 
-> 🎯 **Currently seeking:** Software Engineering, AI Engineering, Cloud Computing, and Technology Consulting graduate roles .
+> 🎯 **Seeking:** Software Engineering · AI Engineering · Cloud Computing · Technology Consulting graduate roles
 
 ---
 
 ## About Me
 
-- 🎓 **BSc (Hons) Software Engineering ** — Nottingham Trent University
-- 💻 **Full-Stack Development:** React.js, Node.js, ASP.NET Core
-- 🤖 **Machine Learning:** PyTorch, Scikit-learn, Computer Vision, YOLO, EfficientNet
-- 🗄️ **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB
-- 🔧 **Tools:** Git, Docker, Jenkins, Figma
+- 🎓 **BSc (Hons) Software Engineering (2:1)** — Nottingham Trent University (2022–2025)
+- 🏛️ **Course Representative** — Final-year Software Engineering
+- 🏎️ **Formula Student** — Data-led analysis & collaborative team delivery
+- 💻 **Full-Stack:** React.js · Node.js · ASP.NET Core · REST APIs
+- 📱 **Mobile:** Flutter · Agile delivery · Figma prototyping
+- 🤖 **AI/ML:** PyTorch · Scikit-learn · YOLO · CNNs · EDA · model evaluation
+- 🗄️ **Databases:** PostgreSQL · SQL Server · MySQL · MongoDB
+- 🔧 **Tools:** Git · Docker · Jenkins · Jupyter Notebook · Figma
 - 🌍 **Based in:** Cairo, Egypt
-- 🚀 **Interests:** Software Engineering · AI Engineering · Cloud · Technology Consulting
 
 ---
 
@@ -34,12 +37,13 @@ I am a **Software Engineering graduate** from **Nottingham Trent University (2:1
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python · JavaScript · TypeScript · Java · C# · C++ · SQL |
-| **Frontend** | React.js · HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Node.js · ASP.NET Core · REST APIs |
-| **AI & ML** | PyTorch · Scikit-learn · CNNs · YOLO · Data Analysis · Feature Engineering |
-| **Databases** | PostgreSQL · MySQL · SQL Server · MongoDB |
-| **Practices** | Agile · Scrum · OOP · Data Structures & Algorithms · System Design |
+| **Languages** | Python · JavaScript · TypeScript · Java · C# · C++ · **Haskell** · SQL |
+| **Frontend & Mobile** | **React.js** · **Flutter** · HTML5 · CSS3 · Tailwind CSS |
+| **Backend** | Node.js · ASP.NET Core · REST APIs · JWT · RBAC |
+| **AI & ML** | PyTorch · Scikit-learn · CNNs · YOLO · EDA · feature engineering · precision/recall/F1/ROC |
+| **Databases** | PostgreSQL · SQL Server · MySQL · MongoDB |
+| **DevOps & Tools** | Git · Docker · Jenkins · Jupyter Notebook · Figma |
+| **Practices** | OOP · DSA · Agile/Scrum · SDLC · System Design · clean architecture |
 
 ---
 
@@ -47,37 +51,50 @@ I am a **Software Engineering graduate** from **Nottingham Trent University (2:1
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**OpsDesk — IT Helpdesk Platform**](https://github.com/Ahmeddhaagrass/opsdesk) | Role-based ticket system with JWT auth, agent assignment, and admin dashboards | React, Node.js, PostgreSQL, Prisma |
-| [**Deep Hardware Integrity Analyzer**](https://github.com/Ahmeddhaagrass/deep-hardware-integrity-analyzer) | Windows desktop diagnostics for GPU, BIOS, drivers, kernel logs, Secure Boot/TPM | Electron, TypeScript, PowerShell |
-| [**FeedWise — AI Aquaculture System**](https://github.com/Ahmeddhaagrass/FeedWise-Fish-Feeding-Efficiency-Waste-Reduction) | Feeding management & waste reduction for sustainable fish farming using computer vision | Python, YOLO, EfficientNet, ResNet |
-| [**GPS Project Management Platform**](https://github.com/Ahmeddhaagrass/portfolio) | Full-stack platform supporting **40+ active projects** with RBAC, JWT auth, and automated quotations | React.js, Node.js, PostgreSQL |
-| [**Developer Salary Prediction**](https://github.com/Ahmeddhaagrass/AI-CRSWRK) | ML solution using Stack Overflow Developer Survey data for salary band prediction | Python, Scikit-learn, Pandas |
-| [**Event Booking System**](https://github.com/Ahmeddhaagrass/meal_to_meal) | Full-stack event booking app with authentication and database integration | React.js, Node.js, SQL |
-| [**Future Fridges Mobile App**](https://github.com/Ahmeddhaagrass/-ffsmart-fridge-app) | Smart food inventory app for tracking and expiry management | Mobile, Agile, Figma |
-| [**Kataticket Coursework**](https://github.com/Ahmeddhaagrass/soft20181-kataticket-coursework) | NTU event ticketing website (SOFT20181) | HTML, CSS, JavaScript |
-| [**Domino Line Builder (C++)**](https://github.com/Ahmeddhaagrass/cpp-dominoes-coursework) | C++ coursework — domino chain algorithm with chrono performance benchmarks | C++14, CMake, std::map |
-| [**Personal Portfolio**](https://github.com/Ahmeddhaagrass/portfolio) | Professional portfolio showcasing projects, skills, and experience | React, TypeScript, Tailwind |
+| [**OpsDesk — IT Helpdesk**](https://github.com/Ahmeddhaagrass/opsdesk) | Role-based ticket system with JWT auth and admin dashboards | React, Node.js, PostgreSQL, Prisma |
+| [**GPS Project Management Platform**](https://github.com/Ahmeddhaagrass/portfolio) | Full-stack platform for **40+ projects**, RBAC, JWT, quotation automation (**40–45% faster**) | React.js, Node.js, PostgreSQL |
+| [**FeedWise — AI Aquaculture**](https://github.com/Ahmeddhaagrass/FeedWise-Fish-Feeding-Efficiency-Waste-Reduction) | Food management & waste reduction; feeding logic + CV for fish farm efficiency | Python, YOLO, EfficientNet |
+| [**Developer Salary Prediction**](https://github.com/Ahmeddhaagrass/AI-CRSWRK) | ML salary band prediction from Stack Overflow survey — EDA, feature engineering, ROC metrics | Python, Scikit-learn, Pandas |
+| [**Event Booking System**](https://github.com/Ahmeddhaagrass/meal_to_meal) | Full-stack booking with auth, real-time filtering, structured APIs | React.js, Node.js, SQL |
+| [**Future Fridges Mobile App**](https://github.com/Ahmeddhaagrass/-ffsmart-fridge-app) | Smart fridge app — inventory, expiry tracking, Figma prototyping, Agile team delivery | Flutter, Mobile, Figma |
+| [**Deep Hardware Integrity Analyzer**](https://github.com/Ahmeddhaagrass/deep-hardware-integrity-analyzer) | Windows diagnostics: GPU, BIOS, drivers, WHEA, Secure Boot/TPM | Electron, TypeScript |
+| [**Haskell Coursework**](https://github.com/Ahmeddhaagrass/Haskell_Coursework) | Advanced Haskell software engineering coursework | Haskell |
+| [**Domino Line Builder (C++)**](https://github.com/Ahmeddhaagrass/cpp-dominoes-coursework) | C++ domino chain builder with `std::chrono` performance benchmarks | C++14, CMake |
+| [**Kataticket (SOFT20181)**](https://github.com/Ahmeddhaagrass/soft20181-kataticket-coursework) | NTU event ticketing website | HTML, CSS, JavaScript |
+| [**Personal Portfolio**](https://github.com/Ahmeddhaagrass/portfolio) | Portfolio site showcasing projects and experience | React, TypeScript, Tailwind |
 
 ---
 
 ## Professional Experience
 
-### Software Developer Intern — Global Project Services *(Jun 2024 – Aug 2024)*
-- Developed software supporting **40+ active modular construction projects**
-- Built secure APIs and database systems
-- Automated quotation workflows, **reducing preparation time by 45%**
-- Integrated AI-powered business solutions
+### Software Developer Intern — Global Project Services (GPS) · *Jun 2024 – Aug 2024 · Egypt*
+- Built a **full-stack project management platform** with **React.js** and **Node.js** for **40+ active modular construction projects**, replacing spreadsheet workflows
+- Designed **PostgreSQL** schema with **RBAC** and **JWT authentication** for secure internal operations
+- Integrated an **AI-powered assistant** for proposal drafting and client interaction automation
+- Built a **quotation automation tool** reducing document preparation time by **~40–45%**
+- Developed **RESTful APIs** for project data, user roles, quotations, and system interactions
+- Worked in **Agile/Scrum** with stand-ups, sprint planning, testing, and stakeholder feedback
 
-### Machine Learning Intern — Bright Network *(Sep 2024 – Oct 2024)*
-- Built end-to-end machine learning pipelines
-- Applied predictive modelling techniques
-- Evaluated model performance using industry-standard metrics
+### Machine Learning Intern — Bright Network · *Sep 2024 – Oct 2024 · UK*
+- Built automated **data preparation pipelines** using **SQL** and **Python**
+- Applied **PyTorch** and **Scikit-learn** for classification, evaluation, and model selection
+- Produced performance summaries using **precision, recall, F1-score, and ROC** analysis
+- Documented findings for reproducibility in an **Agile team** setting
+
+---
+
+## Education
+
+**BSc (Hons) Software Engineering — Upper Second-Class Honours (2:1)**  
+Nottingham Trent University · Nottingham, UK · 2022 – 2025
+
+**Key modules:** Advanced Software Engineering · AI & Machine Learning · Cloud Computing · Database Systems · Mobile Application Development · Internet Application Programming
 
 ---
 
 ## Pinned Projects Preview
 
-> Project screenshots coming soon — add images to each repository under `docs/screenshots/`.
+> Screenshots coming soon — add images to each repository under `docs/screenshots/`.
 
 ---
 
@@ -90,14 +107,16 @@ I am a **Software Engineering graduate** from **Nottingham Trent University (2:1
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmedhagraas)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Ahmeddhaagrass)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:hagrasahmed123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedhagraas-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmedhagraas)
+[![GitHub](https://img.shields.io/badge/GitHub-Ahmeddhaagrass-181717?style=flat-square&logo=github)](https://github.com/Ahmeddhaagrass)
+[![Email](https://img.shields.io/badge/Email-hagrasahmed123@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:hagrasahmed123@gmail.com)
+
+📍 Cairo, Egypt · 📞 +20 101 642 9658
 
 ---
 
 <div align="center">
 
-*"Building software that solves real problems — from aquaculture AI to enterprise project platforms."*
+*"Building software that solves real problems — from enterprise platforms to aquaculture AI."*
 
 </div>

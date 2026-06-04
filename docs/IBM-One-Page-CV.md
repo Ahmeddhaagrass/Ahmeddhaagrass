@@ -1,74 +1,61 @@
-# Ahmed Hagras — One-Page CV (IBM Graduate Optimized)
+# Ahmed Hagras — One-Page CV
 
-**Cairo, Egypt** · hagrasahmed123@gmail.com · [linkedin.com/in/ahmedhagraas](https://linkedin.com/in/ahmedhagraas) · [github.com/Ahmeddhaagrass](https://github.com/Ahmeddhaagrass)
+**Cairo, Egypt** · hagrasahmed123@gmail.com · 01016429658 · [linkedin.com/in/ahmedhagraas](https://linkedin.com/in/ahmedhagraas) · [github.com/Ahmeddhaagrass](https://github.com/Ahmeddhaagrass)
 
 ---
 
-## Profile
+## Summary
 
-Software Engineering graduate (2:1) with proven experience in **full-stack development**, **machine learning**, and **enterprise software delivery**. Built production systems supporting 40+ business projects, AI/computer vision solutions for aquaculture, and data-driven ML models. Seeking a **Software Engineering / AI Engineering graduate role at IBM**.
+Software Engineer with hands-on experience in full-stack development and AI-enabled systems, combining strong software engineering fundamentals with practical delivery in business and research environments. Experienced in building web platforms, backend APIs, workflow automation tools, and machine learning solutions across project operations, smart applications, and aquaculture. Comfortable working in Agile teams and focused on clean architecture, maintainable code, and measurable product impact.
+
+---
+
+## Experience
+
+### Software Developer Intern — Global Project Services (GPS) · Jun 2024 – Aug 2024 · Egypt
+- Developed a full-stack project management platform using **React.js** and **Node.js** for **40+ active modular construction projects**, replacing spreadsheet workflows
+- Designed **PostgreSQL** schema with **RBAC** and **JWT authentication**
+- Integrated an **AI-powered assistant** for proposal drafting and client interaction
+- Built quotation automation reducing preparation time by **~40–45%**
+- Developed **RESTful APIs** for projects, roles, quotations, and system interactions
+- **Agile/Scrum:** stand-ups, sprint planning, testing, stakeholder feedback
+
+### Machine Learning Intern — Bright Network · Sep 2024 – Oct 2024 · UK
+- Built automated data pipelines using **SQL** and **Python**
+- Applied **PyTorch** and **Scikit-learn** for classification and model selection
+- Performance analysis: **precision, recall, F1-score, ROC**
+- Agile documentation for reproducibility and handover quality
+
+---
+
+## Projects
+
+**Future Fridges Mobile App** — Agile team · Flutter/mobile, Figma, UI integration, testing  
+**Aquaculture Food Management & Waste Reduction** — Final-year · feeding logic, waste monitoring, CV integration  
+**Developer Salary Prediction** — Stack Overflow survey · EDA, feature engineering, ROC metrics  
+**Event Booking Web System** — Full-stack · auth, real-time filtering, REST APIs  
+**OpsDesk / GPS Platform** — React, Node, PostgreSQL, JWT, RBAC  
 
 ---
 
 ## Education
 
 **BSc (Hons) Software Engineering (2:1)** — Nottingham Trent University · 2022–2025  
-Relevant modules: Software Engineering, AI, Databases, Web Development, Mobile Applications, Machine Learning
+Course Representative (final year) · Formula Student · Modules: Advanced SE, AI/ML, Cloud, Databases, Mobile Dev, IAP
 
 ---
 
-## Technical Skills
+## Skills
 
-**Languages:** Python, JavaScript, TypeScript, Java, C#, C++, SQL  
-**Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, ASP.NET Core, REST APIs  
-**AI/ML:** PyTorch, Scikit-learn, CNNs, YOLO, EfficientNet, Feature Engineering, EDA  
-**Databases:** PostgreSQL, MySQL, SQL Server, MongoDB  
-**Tools & Practices:** Git, Docker, Jenkins, Figma, Agile/Scrum, OOP, System Design
-
----
-
-## Experience
-
-### Software Developer Intern — Global Project Services · Jun–Aug 2024
-- Delivered software supporting **40+ active modular construction projects**
-- Built secure REST APIs, PostgreSQL schemas, and role-based access control
-- **Automated quotation workflows, reducing preparation time by 45%**
-- Integrated AI-powered solutions into business operations
-
-### Machine Learning Intern — Bright Network · Sep–Oct 2024
-- Designed and implemented ML pipelines from data ingestion to evaluation
-- Applied predictive modelling and classification techniques
-- Measured model performance using precision, recall, F1, and accuracy metrics
+**Languages:** Python, JavaScript, TypeScript, Java, C#, C++, Haskell, SQL  
+**Web & Mobile:** React.js, Flutter, Node.js, ASP.NET Core, HTML, CSS, REST APIs  
+**AI/ML:** PyTorch, Scikit-learn, CNNs, YOLO, EDA, preprocessing, model evaluation  
+**Databases:** PostgreSQL, SQL Server, MySQL, MongoDB  
+**Tools:** Git, Docker, Jenkins, Jupyter Notebook, Figma  
+**Practices:** OOP, DSA, RBAC, JWT, Agile/Scrum, SDLC
 
 ---
 
-## Selected Projects
+## Why IBM
 
-**AI-Powered Aquaculture Management (FeedWise)** — Python, YOLO, EfficientNet, ResNet  
-Computer vision models for fish feeding detection and waste reduction in aquaculture operations.
-
-**Project Management Platform (GPS Internship)** — React.js, Node.js, PostgreSQL, JWT  
-Centralized platform replacing spreadsheet workflows for 40+ concurrent projects.
-
-**Developer Salary Prediction** — Python, Scikit-learn, Pandas, CRISP-DM  
-Predictive model using Stack Overflow Developer Survey data with feature engineering and classification.
-
-**Event Booking System** — React.js, Node.js, SQL, Authentication  
-Full-stack booking application with secure auth, backend services, and database integration.
-
-**Future Fridges Mobile App** — Mobile Development, Agile, Figma  
-Smart inventory application for food tracking and expiry management (team project).
-
-**Personal Portfolio Website** — React, TypeScript, Tailwind CSS  
-Deployed professional portfolio with project showcase and responsive UI.
-
----
-
-## Why IBM (Elevator Pitch)
-
-I want to build **enterprise-grade, scalable systems** that combine software engineering discipline with emerging AI capabilities. IBM's focus on hybrid cloud, AI, and client impact aligns with my experience delivering business platforms and ML solutions. I bring full-stack delivery, clean documentation, and a problem-solving mindset shaped by real internship outcomes.
-
----
-
-*References and full project links available on GitHub and LinkedIn.*
+I want to build enterprise-scale systems combining software engineering discipline with responsible AI — aligned with IBM's hybrid cloud, AI, and client-impact focus. I bring React/Node delivery, Flutter mobile experience, ML evaluation rigour, and measurable internship outcomes.
