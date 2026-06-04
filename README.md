@@ -20,7 +20,7 @@ I am a **Software Engineering graduate** from **Nottingham Trent University (2:1
 
 ## About Me
 
-- 🎓 **BSc (Hons) Software Engineering (2:1)** — Nottingham Trent University
+- 🎓 **BSc (Hons) Software Engineering ** — Nottingham Trent University
 - 💻 **Full-Stack Development:** React.js, Node.js, ASP.NET Core
 - 🤖 **Machine Learning:** PyTorch, Scikit-learn, Computer Vision, YOLO, EfficientNet
 - 🗄️ **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB
