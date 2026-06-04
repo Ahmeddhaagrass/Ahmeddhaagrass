@@ -88,4 +88,4 @@ I want to deepen expertise in **cloud-native architecture** and **applied AI**, 
 - Pin **6 strongest repos** on your GitHub profile
 - Make at least **3–5 repositories public** with READMEs, screenshots, and setup instructions
 - Replace vague project titles with **outcome-focused descriptions** (metrics, tech stack, your role)
-- Upload your CV as PDF; use `docs/IBM-One-Page-CV.md` as the source
+- Upload your CV as PDF
